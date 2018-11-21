@@ -2,11 +2,9 @@
 Self-Driving Car Engineer Nanodegree Program
 
 ## 
-For this project (also other projects in term 2), i am using Ubuntu 16 as my develop/test environment. the simulator also run on it as well. By the starter code udacity provided, i updated the under `/src` and finally got the following result: 
-
-![Final EKF Result (Dataset 1)](dataset1.JPG)
-
-![Final EKF Result (Dataset 2)](dataset2.JPG)
+For this project (also other projects in term 2), I am using Ubuntu 16 as my develop/test environment. the simulator also run on it as well. By the starter code udacity provided, my code was updated under `/src` and the final result is as below:   
+<img src="dataset1.JPG" width="600">   
+<img src="dataset2.JPG" width="600">
 
 ## Other Important Dependencies
 
